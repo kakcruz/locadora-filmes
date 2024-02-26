@@ -17,3 +17,5 @@ Ferramentas e linguagem ultilizada:
     
 
 * Mate o projeto e inicie novamente com o mesmo comando NPM RUN SERVE.
+
+O projeto tem a pasta de testes unitários que se encontra na branch develop.
